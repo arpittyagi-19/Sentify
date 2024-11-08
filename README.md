@@ -18,3 +18,5 @@ You encounter many of these use cases in everyday life : when you visit web page
 ### Sentimen Analysis
 Sentiment analysis refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment Analysis [2]: the process of understanding if a given text is talking positively or negatively about a given subject, aiming for brand monitoring.
 ![Screenshot](https://i.ibb.co/CzfQJy2/Screenshot-2024-11-08-112503.png)
+### LSTM 
+Long Short Term Memory (LSTM) is a special kind of Recurrent Neural Network (RNN), capable of learning long-term dependencies. These long-term dependencies have a great influence on the meaning and overall polarity of a document. Long short-term memory networks (LSTM) address this long-term dependency problem by introducing a memory into the network. It was first introduced by Hochreiter & Schmidhuber.
