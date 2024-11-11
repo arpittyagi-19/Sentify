@@ -1,7 +1,0 @@
-Flask
-tensorflow
-pandas
-numpy
-scikit-learn
-pickle-mixin
-gunicorn
